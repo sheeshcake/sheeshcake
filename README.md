@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on some game that is hard to finish.
 - 🌱 I’m currently learning React Native and Flutter for Mobile Development
 - 🤔 I’m looking for help with someone who can help me. :)
 - ⚡ Fun fact: im dumb
