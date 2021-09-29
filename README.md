@@ -11,4 +11,7 @@ Im Wendale Franz R. Dy and here is my repository feel free to explore!
 - 🤔 I’m looking for help with someone who can help me. :)
 - ⚡ Fun fact: im dumb
 
-<div><img align="center" style="width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendale1231&layout=compact&hide=html" alt="wendale1231" /></div>
+<div>
+  <img style="width: 50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendale1231&layout=compact&hide=html" alt="wendale1231" />
+  <img style="width: 50%" src="https://github-readme-stats.vercel.app/api?username=zendy199x&show_icons=true" alt="zendy199x" />
+</div>
