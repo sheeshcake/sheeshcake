@@ -11,4 +11,4 @@ Im Wendale Franz R. Dy and here is my repository feel free to explore!
 - 🤔 I’m looking for help with someone who can help me. :)
 - ⚡ Fun fact: im dumb
 
-<!-- ![wendale1231's github stats](https://github-readme-stats.vercel.app/api?username=wendale1231&theme=merko&show_icons=true) -->
+<div><img align="center" style="width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendale1231&layout=compact&hide=html" alt="wendale1231" /></div>
