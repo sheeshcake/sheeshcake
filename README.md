@@ -6,10 +6,10 @@
 Im Wendale Franz R. Dy and here is my repository feel free to explore! 
 
 
-- 🔭 I’m currently working on some game that is hard to finish.
-- 🌱 I’m currently learning React Native and Flutter for Mobile Development
-- 🤔 I’m looking for help with someone who can help me. :)
-- ⚡ Fun fact: im dumb
+- 🔭 I’m currently working on some game that is trash.
+- 🌱 I’m currently learning React Native and Flutter for Mobile Development to create android app trash
+<!-- - 🤔 I’m looking for help with someone who can help me. :) -->
+<!-- - ⚡ Fun fact: im dumb -->
 
 <div style="display: inline-flex">
   <img style="width: 50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendale1231&layout=compact&hide=html" alt="wendale1231" />
