@@ -6,8 +6,8 @@
 Im Wendale Franz R. Dy and here is my repository feel free to explore! 
 
 
-- 🔭 I’m currently working on some game that is trash.
-- 🌱 I’m currently learning React Native and Flutter for Mobile Development to create android app trash
+- 🔭 BLABLABLABLABLABLABLABLA.
+- 🌱 BLABLABLABLABLABLABLA!
 <!-- - 🤔 I’m looking for help with someone who can help me. :) -->
 <!-- - ⚡ Fun fact: im dumb -->
 
